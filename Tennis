@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title> Tennis </title>
+    </head>
+    <body>
+    <style>
+    h1{
+       text-align: center;
+       font-size: 35px;
+    }
+
+    h2{
+       text-align: center;
+       font-size: 30px;
+    }
+
+    body{
+       background-color: rgb(1, 121, 7);
+       color: white;
+       font-size: 20px;
+    }
+
+    h5{
+       text-align: center;
+    }
+
+    form{
+       text-align: center;
+    }
+    </style>
+        <h1> <u>Tennis</u> </h1> 
+        <h2> <u>What Is It And How Is It Played?</u> </h2>
+        <center>
+        <img src = "https://previews.123rf.com/images/labibretroman/labibretroman2002/labibretroman200200024/139418698-tennis-ball-and-tennis-racket-vector-illustration-for-template-design.jpg" width = 200px>
+        </center>
+        <p> Tennis is a sport that can either be played by singles or doubles. This sport requires a tennis racket and a tennis ball. The court has a service line with two small squares before it, and a giant rectangle called No Man's Land at the back, with a line behind No Man's Land called the base line. There are two alleys on each side of the tennis court. Both sides will be split by a net.
+        <br></br>
+        So how exactly does tennis work? Well basically, one player always starts serving on the deuce side, which is the right side, and they have to serve it by standing on the base line. The player needs to serve crosscourt by hitting inside the small square that is on the opposite side, hence, crosscourt. The person on the other side of the court must return the serve. Whoever reaches eight sets first wins the match. Players will alternate serves each time.
+        <br></br>
+        For doubles however, one person will be back and the other will be up front at the net. Both players should be on opposite sides. The alleys do count as in for doubles, but not for singles. Players will continue to alternate serves each time, and whichever team reaches eight sets first wins.
+        <br></br>
+        If both players or teams are able to reach seven sets, then a tiebreaker must be played. Whoever wins that tiebreaker round wins the game. Scoring works like this: 15, 30, 40, win. This is for each set. If both players are tied at 40, then deuce must be played, either advantage or no advantage, which basically means that if it is advantage, the players need two points to win, but no advantage is basically next point wins. Tiebreaker rounds are up to seven point, where players will alternate serves.
+       </p>
+
+       <h5> Based on this information, would you like to give tennis a try? </h5>
+       <form>
+           Yes:
+           <input type = "checkbox">
+
+           No:
+           <input type = "checkbox">
+
+           <input type = "submit">
+        </form>
+    </body>
+</html>
